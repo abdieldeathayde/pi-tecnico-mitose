@@ -1,0 +1,223 @@
+fileFormatVersion: 2
+guid: 2513eccdd9078bb47be0ecc18ea5fbae
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: mon_10
+    21300002: mon_10_0
+    21300004: mon_10_1
+    21300006: mon_10_2
+    21300008: mon_10_3
+    21300010: mon_10_4
+    21300012: mon_10_5
+    21300014: mon_10_6
+    21300016: mon_10_7
+    21300018: mon_10_8
+    21300020: mon_10_9
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 1024
+  textureSettings:
+    filterMode: -1
+    aniso: 1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  - buildTarget: Android
+    maxTextureSize: 512
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 1
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: mon_10_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 182
+        width: 278
+        height: 326
+      alignment: 9
+      pivot: {x: 0.64764637, y: 0.2417691}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_1
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 362
+        width: 139
+        height: 150
+      alignment: 9
+      pivot: {x: 0.5700012, y: 0.16268839}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_2
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 386
+        width: 68
+        height: 96
+      alignment: 9
+      pivot: {x: 0.2615159, y: 0.7432534}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_3
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 220
+        width: 69
+        height: 113
+      alignment: 9
+      pivot: {x: 0.7003264, y: 0.93638194}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_4
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 206
+        width: 66
+        height: 123
+      alignment: 9
+      pivot: {x: 0.52948505, y: 0.9008079}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_5
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 259
+        width: 79
+        height: 91
+      alignment: 9
+      pivot: {x: 0.62790734, y: 0.8906798}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_6
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 168
+        width: 69
+        height: 88
+      alignment: 9
+      pivot: {x: 0.67213726, y: 0.76752526}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_7
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 95
+        width: 80
+        height: 84
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_8
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 69
+        width: 115
+        height: 111
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    - serializedVersion: 2
+      name: mon_10_9
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 7
+        width: 222
+        height: 137
+      alignment: 9
+      pivot: {x: 0.62272245, y: 0.7604175}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: -1
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

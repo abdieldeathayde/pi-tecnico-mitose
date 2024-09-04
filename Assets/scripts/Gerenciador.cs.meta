@@ -1,0 +1,30 @@
+fileFormatVersion: 2
+guid: fa049f525258d974e80cdbd10c66e91a
+timeCreated: 1523112024
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - player: {fileID: 1622465976213652, guid: 06ab793bed263734f92f9339db26d034, type: 2}
+  - saude: {instanceID: 0}
+  - mainCanvas: {instanceID: 0}
+  - mainScoreDisplay: {instanceID: 0}
+  - gameOverCanvas: {instanceID: 0}
+  - beatLevelCanvas: {instanceID: 0}
+  - backgroundMusic: {instanceID: 0}
+  - gameOverSFX: {instanceID: 0}
+  - beatLevelSFX: {instanceID: 0}
+  - profase: {instanceID: 0}
+  - metafase: {instanceID: 0}
+  - anafase: {instanceID: 0}
+  - telofase: {instanceID: 0}
+  - Profase: {instanceID: 0}
+  - Metafase: {instanceID: 0}
+  - Anafase: {instanceID: 0}
+  - Telofase: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
